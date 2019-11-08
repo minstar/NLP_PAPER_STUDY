@@ -13,6 +13,7 @@ Natural Language Processing Paper Study
 | 2019. | Week0 | Robust Neural Machine Translation with Doubly Adversarial Inputs | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Robust_Neural_Machine_Translation_with_Doubly_Adversarial_Inputs.pdf) |
 | 2019. | Week0 | Style Transfer from Non-Parallel Text by Cross-Alignment | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Style_Transfer_from_Non_Parallel_Text_by_%20Cross_Alignment.pdf) |
 | 2019. | Week0 | Theory and Experiments on Vector Quantized Autoencoders | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Theory_and_Experiments_on_Vector_Quantized_Autoencoders.pdf) |
+| 2019. | Week0 | VON MISES-FISHER LOSS FOR TRAINING SEQUENCE TO SEQUENCE MODELS WITH CONTINUOUS OUTPUTS | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Von_Mises_Fisher_Loss_for_Training_Sequence_to_Sequence_Models_with_Continuous_Outputs.pdf) |
 | 2019.11.01 | Week1 | Neural Text Generation With Unlikelihood Training | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Neural_Text_Generation_With_Unlikelihood_Training.pdf) |
 | 2019.11.08 | Week2 | A Discrete Hard EM Approach for Weakly Supervised Question Answering | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/A_Discrete_Hard_EM_Approach_for_Weakly_Supervised_Question_Answering.pdf) |
 | 2019.11.08 | Week2 | Visualizing and Measuring the Geometry of BERT | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Visualizing_and_Measuring_the_Geometry_of_BERT.pdf) |
@@ -43,6 +44,10 @@ Natural Language Processing Paper Study
 * Theory and Experiments on Vector Quantized Autoencoders (박정수)
 
   [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/pdf/1805.11063.pdf)
+
+* VON MISES-FISHER LOSS FOR TRAINING SEQUENCE TO SEQUENCE MODELS WITH CONTINUOUS OUTPUTS (박정수)
+
+  [VON MISES-FISHER LOSS FOR TRAINING SEQUENCE TO SEQUENCE MODELS WITH CONTINUOUS OUTPUTS](https://arxiv.org/pdf/1812.04616.pdf)
 
 ##### Week-1 (2019.11.01)
 * Neural Text Generation With Unlikelihood Training (박정수)
