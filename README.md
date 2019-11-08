@@ -7,11 +7,42 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
+| 2019. | Week0 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/BERT.pdf) |
+| 2019. | Week0 | Are All Languages Equally Hard to Language-Model? | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Are_All_Languages_Equally_Hard_to_Language_Models.pdf) |
+| 2019. | Week0 | Neural Discrete Representation Learning | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Neural_Discrete_Represenation_Learning.pdf) |
+| 2019. | Week0 | Robust Neural Machine Translation with Doubly Adversarial Inputs | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Robust_Neural_Machine_Translation_with_Doubly_Adversarial_Inputs.pdf) |
+| 2019. | Week0 | Style Transfer from Non-Parallel Text by Cross-Alignment | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Style_Transfer_from_Non_Parallel_Text_by_%20Cross_Alignment.pdf) |
+| 2019. | Week0 | Theory and Experiments on Vector Quantized Autoencoders | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Theory_and_Experiments_on_Vector_Quantized_Autoencoders.pdf) |
 | 2019.11.01 | Week1 | Neural Text Generation With Unlikelihood Training | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Neural_Text_Generation_With_Unlikelihood_Training.pdf) |
 | 2019.11.08 | Week2 | A Discrete Hard EM Approach for Weakly Supervised Question Answering | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/A_Discrete_Hard_EM_Approach_for_Weakly_Supervised_Question_Answering.pdf) |
 | 2019.11.08 | Week2 | Visualizing and Measuring the Geometry of BERT | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Visualizing_and_Measuring_the_Geometry_of_BERT.pdf) |
 
 #### 참고자료 정리
+
+##### Week-0 (2019.)
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (박정수)
+
+  [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
+* Are All Languages Equally Hard to Language-Model? (박정수)
+
+  [Are All Languages Equally Hard to Language-Model?](https://ryancotterell.github.io/papers/cotterell+alc.naacl18.pdf)
+  
+* Neural Discrete Representation Learning (박정수)
+
+  [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf)
+
+* Robust Neural Machine Translation with Doubly Adversarial Inputs (박정수)
+
+  [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://arxiv.org/pdf/1906.02443.pdf)
+
+* Style Transfer from Non-Parallel Text by Cross-Alignment (박정수)
+
+  [Style Transfer from Non-Parallel Text by Cross-Alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf)
+
+* Theory and Experiments on Vector Quantized Autoencoders (박정수)
+
+  [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/pdf/1805.11063.pdf)
 
 ##### Week-1 (2019.11.01)
 * Neural Text Generation With Unlikelihood Training (박정수)
