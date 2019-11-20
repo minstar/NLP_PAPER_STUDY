@@ -21,6 +21,13 @@ Natural Language Processing Paper Study
 
 #### 참고자료 정리
 
+##### Week-3 (2019.11.20)
+* Aspect-based Sentiment Classification with Graph Convolutional Networks (김현재)
+
+  [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
+d Question Answering](https://arxiv.org/abs/1909.03477)
+  [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
+](https://arxiv.org/abs/1909.02606)
 
 ##### Week-2 (2019.11.08)
 * A Discrete Hard EM Approach for Weakly Supervised Question Answering (정민별)
