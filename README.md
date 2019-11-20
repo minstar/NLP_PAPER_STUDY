@@ -7,7 +7,7 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| 2019.11.20 | Week3 | Aspect-based Sentiment Classification with Graph Convolutional Networks | 김현재 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Aspect-based Sentiment Classification with Graph Convolutional Networks.pdf) |
+| 2019.11.20 | Week4 | Aspect-based Sentiment Classification with Graph Convolutional Networks | 김현재 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Aspect-based_Sentiment_Classification_with_Graph_Convolutional_Networks.pdf) |
 | 2019.11.08 | Week2 | A Discrete Hard EM Approach for Weakly Supervised Question Answering | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/A_Discrete_Hard_EM_Approach_for_Weakly_Supervised_Question_Answering.pdf) |
 | 2019.11.08 | Week2 | Visualizing and Measuring the Geometry of BERT | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Visualizing_and_Measuring_the_Geometry_of_BERT.pdf) |
 | 2019.11.01 | Week1 | Neural Text Generation With Unlikelihood Training | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Neural_Text_Generation_With_Unlikelihood_Training.pdf) |
@@ -22,7 +22,7 @@ Natural Language Processing Paper Study
 
 #### 참고자료 정리
 
-##### Week-3 (2019.11.20)
+##### Week-4 (2019.11.20)
 * Aspect-based Sentiment Classification with Graph Convolutional Networks (김현재)
 
   [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks (EMNLP 2019)](https://arxiv.org/abs/1909.03477)
