@@ -7,6 +7,7 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
+| 2019.11.20 | Week4 | Unsupervised Domain Adaptation on Reading Comprehension | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Unsupervised_Domain_Adaptation_on_Reading_Comprehension.pdf) |
 | 2019.11.20 | Week4 | Aspect-based Sentiment Classification with Graph Convolutional Networks | 김현재 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Aspect-based_Sentiment_Classification_with_Graph_Convolutional_Networks.pdf) |
 | 2019.11.15 | Week3 | Poincaré Embeddings for Learning Hierarchical Representations | 이잉걸 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Poincar%C3%A9_Embeddings_for_Learning_Hierarchical_Representations.pdf) |
 | 2019.11.08 | Week2 | A Discrete Hard EM Approach for Weakly Supervised Question Answering | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/A_Discrete_Hard_EM_Approach_for_Weakly_Supervised_Question_Answering.pdf) |
@@ -30,6 +31,9 @@ Natural Language Processing Paper Study
   
   [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks (EMNLP 2019)
 ](https://arxiv.org/abs/1909.02606)
+
+* Unsupervised Domain Adaptation on Reading Comprehension (정민별)
+  [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/pdf/1911.06137.pdf)
 
 ##### Week-3 (2019.11.15)
 * Poincaré Embeddings for Learning Hierarchical Representations (이잉걸)
