@@ -34,7 +34,7 @@ Natural Language Processing Paper Study
 ##### Week-3 (2019.11.15)
 * Poincaré Embeddings for Learning Hierarchical Representations (이잉걸)
 
-  [Poincaré Embeddings for Learning Hierarchical Representations (NIPS 2017)] (https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf)
+  [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf)
 
 ##### Week-2 (2019.11.08)
 * A Discrete Hard EM Approach for Weakly Supervised Question Answering (정민별)
