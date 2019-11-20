@@ -33,8 +33,8 @@ Natural Language Processing Paper Study
 ](https://arxiv.org/abs/1909.02606)
 
 * Unsupervised Domain Adaptation on Reading Comprehension (정민별)
-  [Unsupervised Domain Adaptation on Reading Comprehension]
-  (https://arxiv.org/pdf/1911.06137.pdf)
+
+  [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/pdf/1911.06137.pdf)
 
 ##### Week-3 (2019.11.15)
 * Poincaré Embeddings for Learning Hierarchical Representations (이잉걸)
