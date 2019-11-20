@@ -44,11 +44,11 @@ Natural Language Processing Paper Study
 ##### Week-2 (2019.11.08)
 * A Discrete Hard EM Approach for Weakly Supervised Question Answering (정민별)
 
-  [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://arxiv.org/pdf/1909.04849.pdf)
+  [A Discrete Hard EM Approach for Weakly Supervised Question Answering (EMNLP 2019)](https://arxiv.org/pdf/1909.04849.pdf)
 
 * Visualizing and Measuring the Geometry of BERT (김강우)
 
-  [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/pdf/1906.02715.pdf)
+  [Visualizing and Measuring the Geometry of BERT (NIPS 2019)](https://arxiv.org/pdf/1906.02715.pdf)
 
 ##### Week-1 (2019.11.01)
 * Neural Text Generation With Unlikelihood Training (박정수)
