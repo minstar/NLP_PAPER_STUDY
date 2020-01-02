@@ -41,7 +41,7 @@ Natural Language Processing Paper Study
 ##### Week-7 (2019.12.11)
 * Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets (정민별))
 
-  [Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets](https://arxiv.org/pdf/1911.09241.pdf)
+  [Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets (AAAI 2020)](https://arxiv.org/pdf/1911.09241.pdf)
 
 ##### Week-5 (2019.11.27)
 * Adversarial Removal of Demographic Attributes from Textual Data (김강우))
