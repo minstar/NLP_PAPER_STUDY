@@ -7,6 +7,8 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
+| 2020.01.02 | Week8 | Dice Loss for Data imbalanced NLP Tasks | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Dice_Loss_for_Data_imbalanced_NLP_Tasks.pdf) |
+| 2020.01.02 | Week8 | Poincare Glove: Hyperbolic Word Embeddings | 이잉걸 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/POINCAR%20%CC%81E_GLOVE_HYPERBOLICWORD_EMBEDDINGS.pdf) |
 | 2019.12.11 | Week7 | Assessing the Benchmarking Capacity of Machine Reading Comprehension | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Assessing_the_Benchmarking_Capacity_of_Machine_Reading_Comprehension_Datasets.pdf) |
 | 2019.11.27 | Week5 | Adversarial Removal of Demographic Attributes from Textual Data | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Adversarial_removal_of_demographic_attributes_from_textual_data.pdf) |
 | 2019.11.20 | Week4 | Unsupervised Domain Adaptation on Reading Comprehension | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Unsupervised_Domain_Adaptation_on_Reading_Comprehension.pdf) |
@@ -25,6 +27,16 @@ Natural Language Processing Paper Study
 
 
 #### 참고자료 정리
+
+##### Week-8 (2020.01.02)
+* Dice Loss for Data imbalanced NLP Tasks (정민별))
+
+  [Dice Loss for Data imbalanced NLP Tasks](https://arxiv.org/pdf/1911.02855.pdf)
+
+* Poincare Glove: Hyperbolic Word Embeddings (이잉걸))
+
+  [Poincare Glove: Hyperbolic Word Embeddings (ICLR 2019)](https://arxiv.org/pdf/1810.06546.pdf)
+
 
 ##### Week-7 (2019.12.11)
 * Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets (정민별))
