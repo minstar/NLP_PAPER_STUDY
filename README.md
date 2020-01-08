@@ -7,6 +7,8 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
+| 2020.01.08 | Week9 | Specializing Word Embeddings (for Parsing) by Information Bottleneck | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/SpecializingWord_Embeddings_(for_Parsing)_by_Information_Bottleneck.pdf) |
+| 2020.01.08 | Week9 | Meta Learning with Memory Augmented Neural Networks | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Meta_Learning_with_Memory_Augmented_Neural_Networks.pdf) |
 | 2020.01.02 | Week8 | Dice Loss for Data imbalanced NLP Tasks | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Dice_Loss_for_Data_imbalanced_NLP_Tasks.pdf) |
 | 2020.01.02 | Week8 | Poincare Glove: Hyperbolic Word Embeddings | 이잉걸 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/POINCAR%20%CC%81E_GLOVE_HYPERBOLICWORD_EMBEDDINGS.pdf) |
 | 2019.12.11 | Week7 | Assessing the Benchmarking Capacity of Machine Reading Comprehension | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Assessing_the_Benchmarking_Capacity_of_Machine_Reading_Comprehension_Datasets.pdf) |
@@ -28,6 +30,16 @@ Natural Language Processing Paper Study
 
 #### 참고자료 정리
 
+##### Week-9 (2020.01.08)
+* Specializing Word Embeddings (for Parsing) by Information Bottleneck (김강우))
+
+  [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://arxiv.org/abs/1910.00163)
+  
+* Meta Learning with Memory Augmented Neural Networks (박정수))
+
+  [Meta Learning with Memory Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
+
+  
 ##### Week-8 (2020.01.02)
 * Dice Loss for Data imbalanced NLP Tasks (정민별))
 
