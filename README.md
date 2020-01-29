@@ -7,6 +7,10 @@ Natural Language Processing Paper Study
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
+| 2020.01.29 | Week12 | Reformer, the Efficient Transformer | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Reformer,_the_Efficient_Transformer.pdf) |
+| 2020.01.22 | Week11 | Data dependent Gaussian Prior Objective for Language Generation | 고미영 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Data_dependent_Gaussian_Prior_Objective_for_Language_Generation.pdf) |
+| 2020.01.22 | Week11 | Probing Neural Network Comprehension of Natural Language Arguements | 이잉걸 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Probing_Neural_Network_Comprehension_of_Natural_Language_Arguements.pdf) |
+| 2020.01.15 | Week10 | Generalization through Memorization : Nearest Neighbor Language Models | 김현재 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Generalization_through_Memorization,Nearest_Neighbor_Language_Models.pdf) |
 | 2020.01.08 | Week9 | Specializing Word Embeddings (for Parsing) by Information Bottleneck | 김강우 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/SpecializingWord_Embeddings_(for_Parsing)_by_Information_Bottleneck.pdf) |
 | 2020.01.08 | Week9 | Meta Learning with Memory Augmented Neural Networks | 박정수 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Meta_Learning_with_Memory_Augmented_Neural_Networks.pdf) |
 | 2020.01.02 | Week8 | Dice Loss for Data imbalanced NLP Tasks | 정민별 | [Slides](https://github.com/minstar/NLP_PAPER_STUDY/blob/master/Paper-PPT/Dice_Loss_for_Data_imbalanced_NLP_Tasks.pdf) |
@@ -29,6 +33,25 @@ Natural Language Processing Paper Study
 
 
 #### 참고자료 정리
+
+##### Week-12 (2020.01.29)
+* Reformer, the Efficient Transformer (김강우)))
+
+  [Reformer, the Efficient Transformer](https://arxiv.org/abs/2001.04451)
+
+##### Week-11 (2020.01.22)
+* Data dependent Gaussian Prior Objective for Language Generation (고미영)))
+
+  [Data dependent Gaussian Prior Objective for Language Generation](https://openreview.net/pdf?id=S1efxTVYDr)
+
+* Probing Neural Network Comprehension of Natural Language Arguements (이잉걸)))
+
+  [Probing Neural Network Comprehension of Natural Language Arguements](https://arxiv.org/abs/1907.07355)
+
+##### Week-10 (2020.01.15)
+* Generalization through Memorization : Nearest Neighbor Language Models (김현재)))
+
+  [Generalization through Memorization : Nearest Neighbor Language Models](https://arxiv.org/abs/1911.00172)
 
 ##### Week-9 (2020.01.08)
 * Specializing Word Embeddings (for Parsing) by Information Bottleneck (김강우))
